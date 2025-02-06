@@ -1,0 +1,36 @@
+[Event "Computer Chess Game"]
+[Site "Local Computer"]
+[Date "2025.02.01"]
+[Round "1"]
+[White "MCTS Engine"]
+[Black "MCTS Engine"]
+[Result "1/2-1/2"]
+
+1. a3 b6 2. c3 g6 3. d3 d5 4. h4 Bd7 5. g3 Qc8 6. Bd2 Nf6 7. Nf3 b5 8. Qa4 e5
+9. Nd4 h6 10. Bc1 Bc5 11. h5 Qa6 12. Rh3 Qd6 13. Rh4 Qe6 14. Nc2 Qf5 15. g4 e4
+16. g5 Bd6 17. f3 Nc6 18. c4 e3 19. Qb4 hxg5 20. a4 d4 21. Qc5 b4 22. Nd2 Qxc5
+23. Na3 Ke7 24. Kd1 exd2 25. Kc2 dxc1=Q+ 26. Kxc1 a6 27. Nb1 gxh5 28. a5 b3 29.
+Ra3 Qxa3 30. Rxh5 Qa2 31. Bg2 Qxb1+ 32. Kd2 Qh1 33. Rh2 Qxg2 34. Rxh8 Ng8 35.
+c5 f5 36. Ke1 Qg3+ 37. Kf1 g4 38. f4 Kf7 39. Rh6 Nd8 40. Rh4 Kf6 41. Rh1 Bxc5
+42. Rh8 Ne7 43. Rf8+ Kg7 44. Rxf5 Kh8 45. Rf7 Qh2 46. e4 Nc8 47. Rxd7 Bb6 48.
+Rg7 Qg3 49. Rxg4 Nf7 50. Rg8+ Kh7 51. axb6 Qg4 52. Rf8 Qg3 53. b7 c6 54. f5 Kh6
+55. f6 Qd6 56. Rh8+ Kg5 57. Ke1 Ne7 58. Rh7 Nf5 59. b8=B c5 60. Ba7 Qg3+ 61.
+Kd1 Ne3+ 62. Ke2 c4 63. Kd2 Rd8 64. Rxf7 Qg4 65. Re7 Kh6 66. f7 Qxe4 67. Bb6
+Qf4 68. f8=R Qe5 69. Rh7+ Kg5 70. Bc7 Qe4 71. Bb6 Qf3 72. Re7 Qf2+ 73. Rxf2 Kh6
+74. Rf5 Rc8 75. Rc7 Kg6 76. Rfc5 Ra8 77. dxc4 a5 78. Rf5 Rd8 79. Re5 Nxc4+ 80.
+Ke2 Re8 81. Rxc4 d3+ 82. Kf1 Rd8 83. Ba7 Kh6 84. Ree4 Rf8+ 85. Kg2 Kh5 86. Bf2
+Kh6 87. Kh3 Kg7 88. Kg2 Rh8 89. Kg1 d2 90. Re6 Rh4 91. Bc5 Kh7 92. Rc6 Rf4 93.
+Bb4 Rg4+ 94. Kh2 Kg8 95. Kh3 Rg5 96. Bc3 Rg4 97. Re6 Re4 98. Rcc6 Rf4 99. Rc4
+Kh7 100. Rh6+ Kg8 101. Re4 Rh4+ 102. Kg2 a4 103. Be5 a3 104. Bh2 Rxe4 105. Be5
+axb2 106. Rh1 b1=N 107. Kf3 Rc4 108. Bf4 Rc8 109. Kg4 b2 110. Kg5 Rc7 111. Kf5
+Rg7 112. Rh6 Rg1 113. Ke4 Rf1 114. Be5 Rf2 115. Kd4 Rf4+ 116. Kd3 Rf1 117. Rg6+
+Kf8 118. Bc7 Rf5 119. Kc2 Ke7 120. Re6+ Kf7 121. Bb6 Rh5 122. Kxb2 Rh6 123.
+Kxb1 Rh7 124. Re1 Rh4 125. Bd8 d1=B 126. Re7+ Kf8 127. Re3 Kf7 128. Re8 Re4
+129. Re7+ Rxe7 130. Bc7 Re8 131. Bd6 Rf8 132. Ka2 Bf3 133. Bc7 Kg6 134. Ka3 Rc8
+135. Bg3 Kh5 136. Bf2 Bh1 137. Ka2 Rc3 138. Bc5 Bg2 139. Bd4 Rc7 140. Be5 Bd5+
+141. Kb1 Be6 142. Bf6 Ra7 143. Bh8 Bg4 144. Ba1 Bd1 145. Bd4 Rb7+ 146. Bb6 Kh4
+147. Ka2 Rf7 148. Bf2+ Rxf2+ 149. Kb1 Ra2 150. Kc1 Rb2 151. Kxd1 Ra2 152. Kc1
+Ra7 153. Kb1 Kh3 154. Kb2 Kg2 155. Kb1 Kg3 156. Kb2 Rf7 157. Ka3 Rf3+ 158. Kb4
+Kg4 159. Kc4 Re3 160. Kb4 Rd3 161. Ka4 Kh5 162. Kb5 Rf3 163. Kc4 Rg3 164. Kd5
+Kg4 165. Ke4 Rd3 166. Kxd3 1/2-1/2
+
