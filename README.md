@@ -94,3 +94,5 @@ pip install numpy python-chess tensorflow
 ## License
 This project is open-source and free to use. Contributions are welcome!
 
+<img width="1440" height="1180" alt="image" src="https://github.com/user-attachments/assets/4182708e-4fae-4b3f-a086-393e9cb908ff" />
+
